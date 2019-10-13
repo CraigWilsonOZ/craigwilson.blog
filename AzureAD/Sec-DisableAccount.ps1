@@ -1,4 +1,4 @@
-﻿# Kill the session to block access to all Office 365 resources
+# Kill the session to block access to all Office 365 resources
 #
 # 5 Stages to block and reset the users access to Office 365.
 #
